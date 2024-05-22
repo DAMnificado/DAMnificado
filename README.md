@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
 
-<h3 align="center">Estudiante en prácticas en Vigo 🇨🇦</h3>
+<h3 align="center">Estudiante del FP Grado Superior DAM</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Actualmente estoy haciendo mis prácticas en Silicon Valley Vigo
+ 🔭 Actualmente realizando las prácticas en Silicon Valley Vigo
  
- 🌱 Aprendiendo **Docker, React, PHP**
+ 🌱 Formándome con **Laravel, PHP, Blade, Hosting en Plesk**
 
-⚡ Trabajando en distintos proyectos como "https://marujalimon.wairbot.com/"
+⚡ En mi tiempo libre aprendo **React, Docker**
 
  </div>
  
@@ -32,7 +32,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Lenguajes</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
@@ -43,7 +43,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>Mis humildes contribuciones</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
@@ -52,7 +52,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Estadísticas</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
