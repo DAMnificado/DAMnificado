@@ -7,11 +7,11 @@
 
 <div align="center">
  
- 🔭 Actualmente realizando las prácticas en Silicon Valley Vigo
+ 🔭 Actualmente realizo las prácticas en Silicon Valley Vigo
  
  🌱 Formándome en: **Laravel, PHP, node.js, Blade & Hosting en Plesk**
 
-⚡ En mi tiempo libre aprendo **React & Docker** ,entre otras cosas...
+⚡ En mi tiempo libre aprendo **React & Docker**, entre otras cosas...
 
  </div>
  
