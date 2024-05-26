@@ -27,7 +27,7 @@
 <h2 align="center">Lenguajes</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,figma,github,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,github,git" />
     <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,python,javascript,django,hibernate,java,mysql" /><br>
 </div>
 
