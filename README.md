@@ -30,7 +30,7 @@
 <hr/>
 
 <h2>
-  <img src="https://img.icons8.com/ios-filled/50/000000/tools.png" alt="Herramientas" width="30" height="30"/> Lenguajes
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/tools.png" alt="Herramientas" width="30" height="30"/> Lenguajes
 </h2>
 <br/>
 <div>
