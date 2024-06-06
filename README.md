@@ -9,7 +9,7 @@
   </h2>
     
   <p>Realizando las prácticas en... </p>
-  <img src="SILVALI.png" alt="SILVALI" width="115" height="65"/>
+  <img src="SILVALI.png" alt="SILVALI" width="130" height="80"/>
 
 </div>
 
