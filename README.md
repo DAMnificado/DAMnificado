@@ -3,12 +3,12 @@
 </h1>
 <br/>
 
-<div>
+<div style="display: flex; align-items: center;">
   <h2>
     💼 Formación laboral
   </h2>
     
-  Realizando las prácticas en...
+  <p>Realizando las prácticas en...</p>
   
   <img src="SILVALI.png" alt="SILVALI" width="115" height="65"/> <!-- Ajusta el tamaño aquí -->
 </div>
