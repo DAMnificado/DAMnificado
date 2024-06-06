@@ -8,7 +8,7 @@
     💼 Formación laboral
   </h2>
     
-  📝  Realizando las prácticas en...
+  Realizando las prácticas en...
   
   <img src="SILVALI.png" alt="SILVALI" width="115" height="65"/> <!-- Ajusta el tamaño aquí -->
 </div>
@@ -20,7 +20,7 @@
 </h2>
 <br/>
 <div>
-  🖊️ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
+  Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
   <br/>
  📌 CEBEM CPR CEBEM, 2022-2024
   <br/>
@@ -28,6 +28,16 @@
 </div>
 
 <hr/>
+
+<div>
+  <h2>Sobre mí</h2>
+
+    🧠 Actualmente aprendiendo PHP, Laravel y React.
+    💻 Tengo un gran interés en aprender y desarrollarme en diversos aspectos de la tecnología, pero mi preferencia se centra en el desarrollo backend.
+    👨‍🍳 Por experiencia, considero que una de las cosas más importantes en un trabajo es construir un buen ambiente laboral y saber trabajar en equipo.
+  
+</div>
+
 
 <h2>
   💻 Herramientas y lenguajes
