@@ -5,10 +5,10 @@
 
 <div>
   <h2>
-    <img src="https://img.icons8.com/ios-filled/50/000000/hammer.png" alt="Martillo" width="30" height="30"/> Formación laboral
+    💼 Formación laboral
   </h2>
     
-  🌱 Realizando las prácticas en...
+  📝  Realizando las prácticas en...
   
   <img src="SILVALI.png" alt="SILVALI" width="115" height="65"/> <!-- Ajusta el tamaño aquí -->
 </div>
@@ -16,13 +16,13 @@
 <hr/>
 
 <h2>
-  <img src="https://img.icons8.com/ios-filled/50/000000/book.png" alt="Libreta" width="30" height="30"/> Educación
+ 📚 Educación
 </h2>
 <br/>
 <div>
-  Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
+  🖊️ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
   <br/>
-  CEBEM CPR CEBEM, 2022-2024
+ 📌 CEBEM CPR CEBEM, 2022-2024
   <br/>
   <img src="CEBEM.png" alt="CEBEM" />
 </div>
@@ -30,7 +30,7 @@
 <hr/>
 
 <h2>
-  <img src="https://img.icons8.com/ios-filled/50/000000/computer.png" alt="Ordenador" width="30" height="30"/> Herramientas y lenguajes
+  💻 Herramientas y lenguajes
 </h2>
 <br/>
 <div>
