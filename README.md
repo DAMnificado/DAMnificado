@@ -1,14 +1,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+Soy+Héctor...+el+DAMnificado!;" />
-
-<h3 align="center">Estudiante del FP Grado Superior DAM</h3>
-
 <br/>
 
-<div align="center">
+<div>
  <h2>
-   <img src="https://img.icons8.com/ios-filled/50/000000/hammer.png" alt="Martillo" width="30" height="30"/>   Formación laboral
+<img src="https://img.icons8.com/ios-filled/50/000000/hammer.png" alt="Martillo" width="30" height="30"/>Formación laboral
  </h2>
+    
  🔭 Actualmente realizo las prácticas en Silicon Valley Vigo
  
  🌱 Formándome en: **Laravel, PHP & Hosting en Plesk**
