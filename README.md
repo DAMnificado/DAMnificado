@@ -22,21 +22,23 @@
 <div>
   Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
   <br/>
-
-  <br/>
   CEBEM CPR CEBEM, 2022-2024
-    <img src="CEBEM.png" alt="CEBEM" />
+  <br/>
+  <img src="CEBEM.png" alt="CEBEM" />
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2>
-    <img src="https://img.icons8.com/ios-filled/50/000000/tools.png" alt="Herramientas" width="30" height="30"/> Lenguajes</h2>
+  <img src="https://img.icons8.com/ios-filled/50/000000/tools.png" alt="Herramientas" width="30" height="30"/> Lenguajes
+</h2>
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,github,git" />
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,python,javascript,django,hibernate,java,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,github,git" alt="Lenguajes Parte 1" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,python,javascript,django,hibernate,java,mysql" alt="Lenguajes Parte 2" />
+  <br/>
 </div>
+
 
 <br/>
 <hr/>
