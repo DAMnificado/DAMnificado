@@ -8,7 +8,7 @@
     💼 Formación laboral
   </h2>
     
-  Realizando las prácticas en...
+  <li>Realizando las prácticas en...</li>
   
   <img src="SILVALI.png" alt="SILVALI" width="115" height="65"/> <!-- Ajusta el tamaño aquí -->
 </div>
@@ -20,7 +20,7 @@
 </h2>
 <br/>
 <div>
-  Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
+  <li>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.</li>
   <br/>
  📌 CEBEM CPR CEBEM, 2022-2024
   <br/>
