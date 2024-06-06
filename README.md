@@ -14,6 +14,13 @@
 ⚡ En mi tiempo libre aprendo **React & Docker**, entre otras cosas...
 
  </div>
+
+<h2 align="center">   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="30" height="30"/> Educación</h2>
+<br/>
+<div align="center">
+
+![CEBEM](CEBEM.png)
+</div>
  
 <div align="center"> 
   <a href="mailto:damnificado108@gmail.com">
