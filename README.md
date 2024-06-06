@@ -8,7 +8,7 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/hammer.png" alt="Martillo" width="30" height="30"/> Formación laboral
   </h2>
     
-  Realizando las prácticas en
+  Realizando las prácticas en...
   
   <img src="SILVALI.png" alt="SILVALI" width="115" height="65"/> <!-- Ajusta el tamaño aquí -->
 </div>
@@ -22,7 +22,7 @@
 <div>
   Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
   <br/>
-  CEBEM CPR CEBEM, 2022-2024
+  🌱 CEBEM CPR CEBEM, 2022-2024
   <br/>
   <img src="CEBEM.png" alt="CEBEM" />
 </div>
