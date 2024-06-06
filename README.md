@@ -8,11 +8,10 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/hammer.png" alt="Martillo" width="30" height="30"/> Formación laboral
   </h2>
     
-  🔭 Actualmente realizo las prácticas en Silicon Valley Vigo
+  Realizo las prácticas en Silicon Valley Vigo
+  <img src="SILVALVI.png" alt="CEBEM" />
   
-  🌱 Formándome en: **Laravel, PHP & Hosting en Plesk**
-  
-  ⚡ En mi tiempo libre aprendo **React & Docker**, entre otras cosas...
+  🌱 Aprendiendo **Laravel, PHP & Hosting en Plesk**
 </div>
 
 <hr/>
