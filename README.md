@@ -10,7 +10,7 @@
     
   Realizando las prácticas en Silicon Valley Vigo
   <br/>
-  <img src="SILVALI.png" alt="SILVALI" width="110" height="70"/> <!-- Ajusta el tamaño aquí -->
+  <img src="SILVALI.png" alt="SILVALI" width="115" height="65"/> <!-- Ajusta el tamaño aquí -->
   
   Aprendiendo **Laravel, PHP & Hosting en Plesk**
 </div>
