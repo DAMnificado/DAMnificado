@@ -43,14 +43,20 @@
 
 <hr/>
 
+
+
 <div align="center">
   <h2> 
-    <img src="https://img.icons8.com/ios-filled/50/000000/computer.png" alt="Ordenador" width="30" height="30"/> 
+    <img src="https://img.icons8.com/ios-filled/50/000000/snake.png" alt="Serpiente" width="30" height="30"/> 
+  </h2>
+  <h2> 
+    <img src="https://img.icons8.com/ios-filled/50/000000/hamburger.png" alt="Comida" width="30" height="30"/> 
   </h2>
   <br/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
+
 
 <hr/>
 
