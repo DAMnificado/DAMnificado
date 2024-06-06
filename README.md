@@ -15,11 +15,12 @@
 
  </div>
 
-<h2 align="center">   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="30" height="30"/> Educación</h2>
+<h2 align="center">   <img src="https://img.icons8.com/ios-filled/50/000000/book.png" alt="Libreta" width="30" height="30"/> Educación</h2>
 <br/>
 <div align="center">
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
+![CEBEM](CEBEM.png) CEBEM CPR CEBEM, 2022-2024
 
-![CEBEM](CEBEM.png)
 </div>
  
 <div align="center"> 
