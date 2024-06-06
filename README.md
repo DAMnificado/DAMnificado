@@ -6,7 +6,9 @@
 <br/>
 
 <div align="center">
- 
+ <h2>
+   <img src="https://img.icons8.com/ios-filled/50/000000/hammer.png" alt="Martillo" width="30" height="30"/>   Formación laboral
+ </h2>
  🔭 Actualmente realizo las prácticas en Silicon Valley Vigo
  
  🌱 Formándome en: **Laravel, PHP & Hosting en Plesk**
@@ -30,7 +32,8 @@
 <hr/>
 
 <h2>
-    <img src="https://img.icons8.com/ios-filled/50/000000/hammer.png" alt="Martillo" width="30" height="30"/> Lenguajes
+     <img src="https://img.icons8.com/ios-filled/50/000000/computer.png" alt="Ordenador" width="30" height="30"/>
+    Herramientas y lenguajes
 </h2>
 <br/>
 <div>
@@ -44,7 +47,7 @@
 <hr/>
 
 <div align="center">
-  <h2>Mis humildes contribuciones</h2>
+  <h2> <img src="https://img.icons8.com/ios-filled/50/000000/computer.png" alt="Ordenador" width="30" height="30"/> </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
