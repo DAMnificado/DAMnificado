@@ -20,7 +20,7 @@
 </h2>
 <br/>
 <div>
-  <li>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.</li>
+  Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
   <br/>
  📌 CEBEM CPR CEBEM, 2022-2024
   <br/>
@@ -33,8 +33,8 @@
   <h2>Sobre mí</h2>
   
   <ul>
-    🧠 Actualmente aprendiendo PHP, Laravel y React.
-    💻 Tengo un gran interés en aprender y desarrollarme en diversos aspectos de la tecnología, pero mi preferencia se centra en el desarrollo backend.
+    🧠 Actualmente aprendiendo PHP, Laravel y React. <br>
+    💻 Tengo un gran interés en aprender y desarrollarme en diversos aspectos de la tecnología, pero mi preferencia se centra en el desarrollo backend. <br>
     👨‍🍳 Por experiencia, considero que una de las cosas más importantes en un trabajo es construir un buen ambiente laboral y saber trabajar en equipo.
   </ul>
 </div>
