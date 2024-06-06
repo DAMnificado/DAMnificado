@@ -15,13 +15,18 @@
 
  </div>
 
-<h2 align="center">   <img src="https://img.icons8.com/ios-filled/50/000000/book.png" alt="Libreta" width="30" height="30"/> Educación</h2>
+<h2 align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/book.png" alt="Libreta" width="30" height="30"/> Educación
+</h2>
 <br/>
 <div align="center">
-Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
-![CEBEM](CEBEM.png) CEBEM CPR CEBEM, 2022-2024
-
+  Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
+  <br/>
+  <img src="CEBEM.png" alt="CEBEM" />
+  <br/>
+  CEBEM CPR CEBEM, 2022-2024
 </div>
+
  
 <div align="center"> 
   <a href="mailto:damnificado108@gmail.com">
