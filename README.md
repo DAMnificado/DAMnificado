@@ -9,7 +9,7 @@
   </h2>
     
   Realizo las prácticas en Silicon Valley Vigo
-  <img src="SILVALVI.png" alt="CEBEM" />
+  <img src="SILVALVI.png" alt="SILVALVI" />
   
   🌱 Aprendiendo **Laravel, PHP & Hosting en Plesk**
 </div>
