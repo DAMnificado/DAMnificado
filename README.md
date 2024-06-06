@@ -15,11 +15,11 @@
 
  </div>
 
-<h2 align="center">
+<h2>
   <img src="https://img.icons8.com/ios-filled/50/000000/book.png" alt="Libreta" width="30" height="30"/> Educación
 </h2>
 <br/>
-<div align="center">
+<div>
   Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
   <br/>
   <img src="CEBEM.png" alt="CEBEM" />
