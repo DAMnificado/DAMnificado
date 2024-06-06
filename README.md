@@ -9,7 +9,7 @@
  
  🔭 Actualmente realizo las prácticas en Silicon Valley Vigo
  
- 🌱 Formándome en: **Laravel, PHP, node.js, Blade & Hosting en Plesk**
+ 🌱 Formándome en: **Laravel, PHP & Hosting en Plesk**
 
 ⚡ En mi tiempo libre aprendo **React & Docker**, entre otras cosas...
 
@@ -30,9 +30,10 @@
 
  <hr/>
  
-<h2 align="center">Lenguajes</h2>
+<h2>
+    <img src="https://img.icons8.com/ios-filled/50/000000/tools.png" alt="Herramientas" width="30" height="30"/> Lenguajes</h2>
 <br/>
-<div align="center">
+<div>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,github,git" />
     <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,python,javascript,django,hibernate,java,mysql" /><br>
 </div>
