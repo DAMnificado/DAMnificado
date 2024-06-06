@@ -31,11 +31,12 @@
 
 <div>
   <h2>Sobre mí</h2>
-
-    🧠 Actualmente aprendiendo PHP, Laravel y React.
-    💻 Tengo un gran interés en aprender y desarrollarme en diversos aspectos de la tecnología, pero mi preferencia se centra en el desarrollo backend.
-    👨‍🍳 Por experiencia, considero que una de las cosas más importantes en un trabajo es construir un buen ambiente laboral y saber trabajar en equipo.
   
+  <ul>
+    <li>🧠 Actualmente aprendiendo PHP, Laravel y React.</li>
+    <li>💻 Tengo un gran interés en aprender y desarrollarme en diversos aspectos de la tecnología, pero mi preferencia se centra en el desarrollo backend.</li>
+    <li>👨‍🍳 Por experiencia, considero que una de las cosas más importantes en un trabajo es construir un buen ambiente laboral y saber trabajar en equipo.</li>
+  </ul>
 </div>
 
 
