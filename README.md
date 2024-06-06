@@ -34,7 +34,7 @@
   
   <p>🧠 Actualmente aprendiendo PHP, Laravel y React.</p>
   <p>💻 Tengo un gran interés en aprender y desarrollarme en diversos aspectos de la tecnología, pero mi preferencia se centra en el desarrollo backend.</p>
-  <p>👨‍🍳 Por experiencia, considero que una de las cosas más importantes en un trabajo es construir un buen ambiente laboral y saber trabajar en equipo.</p>
+  <p>👨‍🍳 Considero que una de las cosas más importantes en un trabajo es construir un buen ambiente laboral y saber trabajar en equipo.</p>
  
 </div>
 
