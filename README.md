@@ -8,11 +8,11 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/hammer.png" alt="Martillo" width="30" height="30"/> Formación laboral
   </h2>
     
-  🌱 Realizando las prácticas en Silicon Valley Vigo
+  Realizando las prácticas en Silicon Valley Vigo
   <br/>
-  <img src="SILVALI.png" alt="SILVALI" width="100" height="50"/> <!-- Ajusta el tamaño aquí -->
+  <img src="SILVALI.png" alt="SILVALI" width="110" height="70"/> <!-- Ajusta el tamaño aquí -->
   
-  🧠 Aprendiendo **Laravel, PHP & Hosting en Plesk**
+  Aprendiendo **Laravel, PHP & Hosting en Plesk**
 </div>
 
 <hr/>
