@@ -22,9 +22,10 @@
 <div>
   Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
   <br/>
-  <img src="CEBEM.png" alt="CEBEM" />
+
   <br/>
   CEBEM CPR CEBEM, 2022-2024
+    <img src="CEBEM.png" alt="CEBEM" />
 </div>
 
  <hr/>
