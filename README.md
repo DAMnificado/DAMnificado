@@ -8,13 +8,10 @@
     💼 Formación laboral
   </h2>
     
-  <p>Actualmente en búsqueda activa de empleo</p>
-  <p>Con muchas ganas de incorporarme a un equipo de trabajo y comenzar a rodar en el sector.</p>
-  <p></p>
   <p>Hice las prácticas de empresa en:</p>
-  
   <img src="SILVALI.png" alt="SILVALI" width="230" height="100"/>
-
+<p>Actualmente en búsqueda activa de empleo.</p>
+  <p>Con muchas ganas de incorporarme a un equipo de trabajo y comenzar a rodar en el sector.</p>
 
 </div>
 
