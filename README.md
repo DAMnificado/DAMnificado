@@ -8,7 +8,7 @@
     💼 Formación laboral
   </h2>
     
-  <p>Realicé las prácticas del ciclo en</p>
+  <p>Hice las prácticas de empresa en</p>
   
   <img src="SILVALI.png" alt="SILVALI" width="200" height="100"/>
 
