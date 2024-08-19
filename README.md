@@ -8,6 +8,8 @@
     💼 Formación laboral
   </h2>
     
+  <p>Actualmente en búsqueda activa de empleo</p>
+  <p>Con muchas ganas de incorporarme a un equipo de trabajo y comenzar a rodar en el sector.</p>
   <p>Hice las prácticas de empresa en</p>
   
   <img src="SILVALI.png" alt="SILVALI" width="230" height="100"/>
@@ -34,8 +36,8 @@
 <div>
   <h2>Sobre mí</h2>
   
-  <p>🧠 Actualmente aprendiendo PHP, Laravel y React.</p>
-  <p>💻 Gran interés en aprender y desarrollarme en diversos aspectos de la tecnología, pero mi preferencia se centra en el desarrollo backend.</p>
+  <p>🧠 Actualmente trabajando con PHP a través de Laravel.</p>
+  <p>💻 Gran interés en aprender y desarrollarme en múltiples aspectos de la tecnología, pero mi preferencia se centra en el desarrollo backend.</p>
   <p>👨‍🍳 Considero que una de las cosas más importantes en un trabajo es construir un buen ambiente laboral y saber trabajar en equipo.</p>
  
 </div>
