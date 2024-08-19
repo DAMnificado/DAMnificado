@@ -8,7 +8,7 @@
     💼 Formación laboral
   </h2>
     
-  <p>Realizando las prácticas en... </p>
+  <p>Prácticas de empresa en </p>
   
   <img src="SILVALI.png" alt="SILVALI" width="200" height="100"/>
 
