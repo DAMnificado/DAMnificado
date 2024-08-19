@@ -10,7 +10,7 @@
     
   <p>Hice las prácticas de empresa en</p>
   
-  <img src="SILVALI.png" alt="SILVALI" width="200" height="100"/>
+  <img src="SILVALI.png" alt="SILVALI" width="230" height="100"/>
 
 
 </div>
