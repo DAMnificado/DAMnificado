@@ -34,8 +34,9 @@
 <div>
   <h2>Sobre mí</h2>
   
-  <p>🧠 Actualmente trabajando con PHP a través de Laravel.</p>
-  <p>💻 Gran interés en aprender y desarrollarme en múltiples aspectos de la tecnología, pero mi preferencia se centra en el desarrollo backend.</p>
+  <p>🧠 Actualmente realizando proyectos personales (con PHP en Laravel/Symfony y API REST con Spring Boot)</p>
+  <p>💻 Tengo mucho interés en aprender y crecer en múltiples aspectos de la tecnología.</p>
+  <p>👩‍💻 Mi preferencia es, sin duda, el desarrollo backend.</p>
   <p>👨‍🍳 Considero que una de las cosas más importantes en un trabajo es construir un buen ambiente laboral y saber trabajar en equipo.</p>
  
 </div>
