@@ -28,12 +28,3 @@
   <br/>
 </div>
 
-<hr/>
-
-<div align="center">
-  <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
-<hr/>
