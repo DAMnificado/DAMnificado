@@ -23,21 +23,17 @@
 </h2>
 <br/>
 <div>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,github,git" alt="Lenguajes Parte 1" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,github,git,react,cs" alt="Lenguajes Parte 1" />
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,python,javascript,django,hibernate,java,mysql" alt="Lenguajes Parte 2" />
   <br/>
 </div>
 
 <hr/>
 
-
-
 <div align="center">
   <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
-
 <hr/>
-
