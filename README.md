@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+Héctor...+el+DAMnificado!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+Héctor...+DAMnificado!;" />
 </h1>
 <br/>
 
@@ -17,17 +17,6 @@
 </div>
 
 <hr/>
-
-<div>
-  <h2>Sobre mí</h2>
-  
-  <p>🧠 Actualmente realizando proyectos personales (con PHP en Laravel/Symfony y API REST con Spring Boot)</p>
-  <p>💻 Tengo mucho interés en aprender y crecer en múltiples aspectos de la tecnología.</p>
-  <p>👩‍💻 Mi preferencia es, sin duda, el desarrollo backend.</p>
-  <p>👨‍🍳 Considero que una de las cosas más importantes en un trabajo es construir un buen ambiente laboral y saber trabajar en equipo.</p>
- 
-</div>
-
 
 <h2>
   💻 Herramientas y lenguajes
